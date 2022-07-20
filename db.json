@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 6300,
+      "quantity": 400,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "pp",
+      "price": "20",
+      "quantity": "30",
+      "selected": true,
+      "available": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "ccc",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
