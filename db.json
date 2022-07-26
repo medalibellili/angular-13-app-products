@@ -13,23 +13,31 @@
       "name": "printer",
       "price": 6300,
       "quantity": 400,
-      "selected": false,
+      "selected": true,
       "available": true
     },
     {
       "name": "pp",
       "price": "20",
       "quantity": "30",
-      "selected": true,
+      "selected": false,
       "available": true,
       "id": 3
     },
     {
-      "id": 4,
-      "name": "ccc",
+      "name": "cc",
       "price": 0,
       "quantity": 0,
-      "selected": true,
+      "selected": false,
+      "available": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "vvc",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
       "available": true
     }
   ]
