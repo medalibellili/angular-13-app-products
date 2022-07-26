@@ -23,22 +23,6 @@
       "selected": false,
       "available": true,
       "id": 3
-    },
-    {
-      "name": "cc",
-      "price": 0,
-      "quantity": 0,
-      "selected": false,
-      "available": true,
-      "id": 4
-    },
-    {
-      "id": 5,
-      "name": "vvc",
-      "price": 0,
-      "quantity": 0,
-      "selected": false,
-      "available": true
     }
   ]
 }

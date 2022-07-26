@@ -22,8 +22,8 @@
         </tr>
         <app-products-item
           [product]="p"
-          (eventEmitter)="onActionEvent($event)"
-          *ngFor="let p of result.data" style="display: contents;"
+          *ngFor="let p of result.data"
+          style="display: contents"
         ></app-products-item>
       </table>
     </ng-container>

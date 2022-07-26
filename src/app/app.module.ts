@@ -14,6 +14,7 @@ import { RouterModule } from '@angular/router';
 import { ProductsNavBarComponent } from './components/products/products-nav-bar/products-nav-bar.component';
 import { ProductsListComponent } from './components/products/products-list/products-list.component';
 import { ProductsItemComponent } from './components/products/products-list/products-item/products-item.component';
+import { StatsComponent } from './components/stats/stats.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { ProductsItemComponent } from './components/products/products-list/produ
     ProductsNavBarComponent,
     ProductsListComponent,
     ProductsItemComponent,
+    StatsComponent,
   ],
   imports: [
     BrowserModule,
